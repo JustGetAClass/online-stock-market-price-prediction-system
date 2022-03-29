@@ -1,0 +1,4 @@
+git remote
+git remote remove origin
+-----------------------------------------------
+
